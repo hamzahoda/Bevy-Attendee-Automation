@@ -46,7 +46,7 @@ Install Node.js from https://nodejs.org/en/download/, based on your system requi
 ```
 
 ### LIVE_EVENT_LINK
-![LIVE EVENT LINK](https://raw.githubusercontent.com/hamzahoda/Bevy-Automation/main/LIVE-EVENT-LINK.jpg?token=GHSAT0AAAAAABVI4EPAGYOP3QFCPYDY5SGEZAENHUQ)
+![LIVE EVENT LINK](https://raw.githubusercontent.com/hamzahoda/Bevy-Attendee-Automation/main/LIVE-EVENT-LINK.jpg)
 
 
 
